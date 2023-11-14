@@ -20,7 +20,7 @@
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=C#&labelColor=0D1117&textColor=0D1117)&nbsp;
+![c#](https://img.shields.io/badge/-c#-0D1117?style=for-the-badge&logo=c#&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
