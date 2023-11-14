@@ -18,7 +18,7 @@
 
 ### Main skills:
 
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React]
 ![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![c#](https://img.shields.io/badge/-c#-0D1117?style=for-the-badge&logo=c#&labelColor=0D1117&textColor=0D1117)&nbsp;
 
